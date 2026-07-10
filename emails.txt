@@ -1,0 +1,9 @@
+Hello John,
+Contact us at support@gmail.com
+
+For business:
+sales@company.com
+
+Other contacts:
+admin123@yahoo.com
+test.email@outlook.com

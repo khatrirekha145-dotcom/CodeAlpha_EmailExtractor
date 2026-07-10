@@ -1,0 +1,4 @@
+sales@company.com
+support@gmail.com
+admin123@yahoo.com
+test.email@outlook.com
